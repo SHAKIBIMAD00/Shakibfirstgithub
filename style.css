@@ -92,3 +92,20 @@ button:hover{
     font-weight: 400;
     line-height: 1.5em;
 }
+.form{
+    display: flex;
+    align-items: center;
+    background: whitesmoke;
+    padding: 60px;
+}
+.form h1{
+    background: none;
+    color: black;
+    font-size: 35;
+    font-weight: 500;
+}
+input{
+    background: rgb(124, 118, 118);
+    color: black;
+    display: inline-block;
+}
