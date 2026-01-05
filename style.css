@@ -1,0 +1,86 @@
+*{
+  
+  
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F3F4F4;
+    text-align: center;
+    justify-content: center;
+
+}
+button{
+    padding: 10px 30px;
+    color: #F3F4F4;
+    background: #1D546D;
+    font-size: 28px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 50px;
+    border-color: solid 1px white;
+    display: inline;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+button:hover{
+    background: #5F9598;
+    transition: .3s;
+    cursor: pointer;
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.3em;
+    text-transform: capitalize;
+    background: none;
+    }
+h3{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.3em;
+    text-transform: capitalize;
+    box-flex-group: none;
+    }
+p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7em;
+    text-transform: capitalize;
+    background: none;
+    }
+.head{
+    background: #0b3c53;
+    display: flex;
+    gap: 20;
+    padding: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    }
+.logo {
+    width: 25%;
+    
+    padding: 5px 10px;
+
+}
+.menu{
+    width: 50%;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+
+}
+.menu ul li{
+    display: inline;
+    margin-right: 25px;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: capitalize;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    width: 25%;
+    margin-top: 20px;
+    
+}
+    
